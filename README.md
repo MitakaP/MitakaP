@@ -43,7 +43,7 @@
 
 <p align="center">
   <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,cs,cpp,linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cs,cpp,azure,linux" /><br/>
   
   <!-- Frameworks & Tools -->
   <img src="https://skillicons.dev/icons?i=django,bootstrap,unreal,postgresql,mysql,mongodb,docker,jenkins,githubactions,git,postman" />
