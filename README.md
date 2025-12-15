@@ -43,10 +43,10 @@
 
 <p align="center">
   <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,cs,cpp,azure,linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,js,cs,cpp,azure,terraform,linux" /><br/>
   
   <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=django,bootstrap,unreal,postgresql,mysql,mongodb,docker,jenkins,githubactions,git,postman" />
+  <img src="https://skillicons.dev/icons?i=django,grafana,prometheus,unreal,postgresql,mysql,mongodb,docker,jenkins,githubactions,git,postman" />
 </p>
 
 ---
