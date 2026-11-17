@@ -63,8 +63,8 @@ I’ve built and automated several workflows using:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MitakaP&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitakaP&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=MitakaP&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MitakaP&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
