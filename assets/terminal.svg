@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="340" viewBox="0 0 900 340">
+
+  <defs>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B57BFF"/>
+      <stop offset="50%" stop-color="#6A0DAD"/>
+      <stop offset="100%" stop-color="#D6A8FF"/>
+    </linearGradient>
+    <linearGradient id="background" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#171020"/>
+      <stop offset="100%" stop-color="#0D0913"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect x="4" y="4" width="892" height="332" rx="22"
+        fill="url(#background)" stroke="url(#border)" stroke-width="2"/>
+
+  <!-- Title bar -->
+  <path d="M4 26 Q4 4 26 4 H874 Q896 4 896 26 V55 H4 Z"
+        fill="#21172D"/>
+  <path d="M4 55 H896" stroke="#49345C" stroke-width="1"/>
+
+  <!-- Window buttons -->
+  <circle cx="30" cy="30" r="7" fill="#FF5F57"/>
+  <circle cx="54" cy="30" r="7" fill="#FEBC2E"/>
+  <circle cx="78" cy="30" r="7" fill="#28C840"/>
+
+  <text x="450" y="35" text-anchor="middle"
+        fill="#BCA9CE" font-family="monospace" font-size="14">
+    mitaka@developer: ~
+  </text>
+
+  <!-- Terminal content -->
+  <g font-family="monospace" font-size="18">
+    <text x="42" y="100" fill="#B57BFF">mitaka@developer:~$</text>
+    <text x="270" y="100" fill="#E9DDF5">whoami</text>
+
+    <text x="42" y="135" fill="#70D6A5" opacity="0">
+      MitakaP — Software Developer
+      <animate attributeName="opacity" from="0" to="1"
+               begin="0.8s" dur="0.5s" fill="freeze"/>
+    </text>
+
+    <text x="42" y="185" fill="#B57BFF" opacity="0">
+      mitaka@developer:~$
+      <animate attributeName="opacity" from="0" to="1"
+               begin="2s" dur="0.4s" fill="freeze"/>
+    </text>
+    <text x="270" y="185" fill="#E9DDF5" opacity="0">
+      git status
+      <animate attributeName="opacity" from="0" to="1"
+               begin="2.3s" dur="0.4s" fill="freeze"/>
+    </text>
+
+    <text x="42" y="220" fill="#70D6A5" opacity="0">
+      Everything is ready for the next build.
+      <animate attributeName="opacity" from="0" to="1"
+               begin="3s" dur="0.5s" fill="freeze"/>
+    </text>
+
+    <text x="42" y="275" fill="#B57BFF">
+      mitaka@developer:~$
+    </text>
+    <rect x="270" y="258" width="10" height="21" fill="#B57BFF">
+      <animate attributeName="opacity" values="1;0;1"
+               dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
