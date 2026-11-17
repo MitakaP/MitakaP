@@ -177,32 +177,14 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=900&color=B57BFF&background=100B19&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=240&lines=mitaka%40developer%3A~%24+whoami;MitakaP+-+Software+Developer;mitaka%40developer%3A~%24+ls+projects%2F;CinemaWorld%2F+EventPlatform%2F;StormTheCastle%2F+RockPaperScissors%2F;mitaka%40developer%3A~%24+git+status;Everything+is+ready+for+the+next+build..." alt="Animated Developer Terminal" />
-
-<br/>
-
-<a href="https://github.com/MitakaP/CinemaWorldWebsite" target="_blank" rel="noopener noreferrer">CinemaWorld</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/MitakaP/Event-Management-Website---Django-Project" target="_blank" rel="noopener noreferrer">Event Platform</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/MitakaP/Storm-The-Castle-Game" target="_blank" rel="noopener noreferrer">Storm The Castle</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/MitakaP/RockPaperScissors" target="_blank" rel="noopener noreferrer">Rock Paper Scissors</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/STATUS-READY%20TO%20BUILD-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=900&color=B57BFF&background=100B19&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=240&lines=mitaka%40developer%3A~%24+whoami;MitakaP+-+Software+Developer;mitaka%40developer%3A~%24+ls+projects%2F;CinemaWorld%2F+EventPlatform%2F;StormTheCastle%2F+RockPaperScissors%2F;mitaka%40developer%3A~%24+git+status;Everything+is+ready+for+the+next+build..." width=100% alt="Animated Developer Terminal" />
 
 <br/>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16002B,50:6A0DAD,100:BC8CFF&height=3&section=footer" width="100%" />
-
 </div>
+
 
 <br/><br/>
 
