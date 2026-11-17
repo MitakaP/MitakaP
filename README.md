@@ -185,8 +185,21 @@ currently_learning:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16002B,50:6A0DAD,100:BC8CFF&height=3&section=footer" width="100%" />
 </div>
 
+<br>
+<!-- DEVELOPER TERMINAL -->
 
-<br/><br/>
+<div align="center">
+  <img src="./assets/terminal.svg"
+       width="100%"
+       alt="MitakaP Developer Terminal" />
+</div>
+
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16002B,50:6A0DAD,100:BC8CFF&height=3&section=footer" width="100%" />
+</div>
 
 ### 💜 Thanks for visiting!
 
