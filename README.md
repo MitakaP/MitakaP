@@ -16,14 +16,17 @@
 
 <br/>
 
-<a href="https://github.com/MitakaP">
+<a href="https://github.com/MitakaP" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-MitakaP-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/dimitar-peltekov">
+<a href="https://www.linkedin.com/in/dimitar-peltekov" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:dspeltekov03@gmail.com">
+<a href="mailto:dspeltekov03@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/mitaka_p" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-Profile-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -91,7 +94,7 @@ currently_learning:
 <td width="50%">
 <h3 align="center">🎬 CinemaWorldWebsite</h3>
 <div align="center">
-<a href="https://github.com/MitakaP/CinemaWorldWebsite">
+<a href="https://github.com/MitakaP/CinemaWorldWebsite" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Explore-Repository-8A2BE2?style=for-the-badge&logo=github"/>
 </a>
 <p>Responsive cinema website for movie listings and reservations.</p>
@@ -102,7 +105,7 @@ currently_learning:
 <td width="50%">
 <h3 align="center">🎟️ Event Platform</h3>
 <div align="center">
-<a href="https://github.com/MitakaP/Event-Management-Website---Django-Project">
+<a href="https://github.com/MitakaP/Event-Management-Website---Django-Project" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Explore-Repository-8A2BE2?style=for-the-badge&logo=github"/>
 </a>
 <p>Full-featured Django application for managing and attending events.</p>
@@ -115,7 +118,7 @@ currently_learning:
 <td width="50%">
 <h3 align="center">🏰 Storm The Castle</h3>
 <div align="center">
-<a href="https://github.com/MitakaP/Storm-The-Castle-Game">
+<a href="https://github.com/MitakaP/Storm-The-Castle-Game" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Explore-Repository-8A2BE2?style=for-the-badge&logo=github"/>
 </a>
 <p>Console game developed using C#.</p>
@@ -126,7 +129,7 @@ currently_learning:
 <td width="50%">
 <h3 align="center">✂️ Rock Paper Scissors</h3>
 <div align="center">
-<a href="https://github.com/MitakaP/RockPaperScissors">
+<a href="https://github.com/MitakaP/RockPaperScissorsByDimitar" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Explore-Repository-8A2BE2?style=for-the-badge&logo=github"/>
 </a>
 <p>A simple Python console game.</p>
@@ -167,24 +170,39 @@ currently_learning:
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
 
-## 🌐 Let's Connect
+<!-- ==================== TERMINAL OUTRO ==================== -->
+
+<h2 align="center">💻 Developer Terminal</h2>
 
 <div align="center">
 
-<a href="https://github.com/MitakaP">
-  <img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/dimitar-peltekov">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/mitaka_p">
-  <img src="https://img.shields.io/badge/Instagram-Profile-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:dspeltekov03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=900&color=B57BFF&background=100B19&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=240&lines=mitaka%40developer%3A~%24+whoami;MitakaP+-+Software+Developer;mitaka%40developer%3A~%24+ls+projects%2F;CinemaWorld%2F+EventPlatform%2F;StormTheCastle%2F+RockPaperScissors%2F;mitaka%40developer%3A~%24+git+status;Everything+is+ready+for+the+next+build..." alt="Animated Developer Terminal" />
+
+<br/>
+
+<a href="https://github.com/MitakaP/CinemaWorldWebsite" target="_blank" rel="noopener noreferrer">CinemaWorld</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/MitakaP/Event-Management-Website---Django-Project" target="_blank" rel="noopener noreferrer">Event Platform</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/MitakaP/Storm-The-Castle-Game" target="_blank" rel="noopener noreferrer">Storm The Castle</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/MitakaP/RockPaperScissors" target="_blank" rel="noopener noreferrer">Rock Paper Scissors</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-READY%20TO%20BUILD-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16002B,50:6A0DAD,100:BC8CFF&height=3&section=footer" width="100%" />
+
+</div>
 
 <br/><br/>
 
